@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e ☕.</p>
+  <p>Feito com :heart: e ☕</p>
 </div>
