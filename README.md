@@ -5,11 +5,7 @@
   </h1>
   
   <p align="center">
-    Estudando para ser desenvolvedora Front End
-  </p>
-  
-  <p align="center">
-    Aprendendo a cada dia, e sempre postando algum repositório😉️
+    Estudando para ser desenvolvedora Front-End
   </p>
   
 </div>
@@ -27,8 +23,4 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e ☕</p>
 </div>
