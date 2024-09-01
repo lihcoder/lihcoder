@@ -78,4 +78,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <hr>
 
 <p>Contact</p>
- <a href = "mailto: lidia2004oliveira@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "mailto: lidia2004oliveira@gmail.com"> height="30" width="40" /></a>
