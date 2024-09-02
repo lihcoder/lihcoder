@@ -22,7 +22,6 @@
 ✔ I’m currently Developing **Design** for a **gaming** platform <br>
 ✔ I’m currently learning **JavaScript**, **PHP**, **MySql** & **BootStrap**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I'm looking to collaborate with any open source contribution <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *I can't program without drinking my coffee before ;)*<br><br><br><br>
  
