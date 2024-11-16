@@ -18,7 +18,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about me...***
 
-✔ Pronouns: ***She/Her***😉 <br>
 ✔ I’m currently Developing **Design** for a **gaming** platform <br>
 ✔ I’m currently learning **JavaScript**, **React**, **Figma**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
