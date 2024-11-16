@@ -1,11 +1,11 @@
 
-<h1 align="center">Hellooo<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lídia</h1>
-<h3 align="center">Front-End Developer | Designer Ux/UI | Back-End Enthusiast</h3>
+<h1 align="center">Helloooooo<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Front-End Developer | Designer Ux/UI</h3>
 
 <p align="center">
   <em>
    How are you? I hope so. Well, I'm from Brazil and I'm in the <b>fourth semester</b> of the <b>computer science</b> course.<br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> And to the <b>Glory of Jesus</b>
+    A budding <b>Front-End Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> And to the <b>Glory of Jesus</b>
     I wish to <b>improve myself </b>through a<b> platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -20,7 +20,7 @@
 
 ✔ Pronouns: ***She/Her***😉 <br>
 ✔ I’m currently Developing **Design** for a **gaming** platform <br>
-✔ I’m currently learning **JavaScript**, **PHP**, **MySql** & **BootStrap**<br>
+✔ I’m currently learning **JavaScript**, **React**, **Figma**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *I can't program without drinking my coffee before ;)*<br><br><br><br>
