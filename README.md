@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-   How are you? I hope so. Well, I'm from Brazil and I'm in the <b>fourth semester</b> of the <b>computer science</b> course.<br>
+   I'm from Brazil and I'm in the <b>fourth semester</b> of the <b>computer science</b> course.<br>
     A budding <b>Front-End Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> And to the <b>Glory of Jesus</b>
     I wish to <b>improve myself </b>through a<b> platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
